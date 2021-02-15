@@ -23,6 +23,7 @@
     
 8.  Do PoS Tagging for both T1 and T2 using anyone of the four tagset studied in the class and Get the distribution of various tags
 
+
 **SPECIFICATIONS**
 
 *Python Libraries used in this project :*
