@@ -1,7 +1,7 @@
 # Gutenberg-Novel-Analysis
 In this project, we performed text analysis on two of our chosen books from Gutenberg
 
-https://user-images.githubusercontent.com/65908705/107999517-8dc02e00-700d-11eb-961b-8e64e012d5db.png
+(https://user-images.githubusercontent.com/65908705/107999517-8dc02e00-700d-11eb-961b-8e64e012d5db.png)
 
 **GOALS**
 
