@@ -1,5 +1,7 @@
-# Gutenberg-Novel-Analysis
-In this project, we performed text analysis on two of our chosen books from Gutenberg
+
+# Gutenberg Novel Analysis
+
+*In this project, we performed text analysis on two of our chosen books from Gutenberg*
 
 ![Books Used](https://user-images.githubusercontent.com/65908705/107999517-8dc02e00-700d-11eb-961b-8e64e012d5db.png)
 
@@ -19,6 +21,15 @@ In this project, we performed text analysis on two of our chosen books from Gute
     
 7.  Evaluate the relationship between the word length and frequency for both T1 and T2.
     
-8.  Do PoS Tagging for both T1 and T2 using anyone of the four tagset studied in the class
-    
-    and Get the distribution of various tags
+8.  Do PoS Tagging for both T1 and T2 using anyone of the four tagset studied in the class and Get the distribution of various tags
+
+**SPECIFICATIONS**
+
+*Python Libraries used in this project :*
+
+***urllib*** - Used to fetch text data from Gutenberg URLs  
+***nltk*** - Used for Tokenizing, Lemmatization and Removing Stopwords  
+***re*** - Used to remove URLs and Decontract Contractions in English Language 
+***wordcloud*** - Used to create WordClouds from Tokenized Data  
+***inflect*** - Used to replace numbers with words  
+***maplotlib*** - Used to Visualize our text data
