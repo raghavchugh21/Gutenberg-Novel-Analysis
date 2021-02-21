@@ -33,4 +33,4 @@
 ***re*** - Used to remove URLs and Decontract Contractions in English Language 
 ***wordcloud*** - Used to create WordClouds from Tokenized Data  
 ***inflect*** - Used to replace numbers with words  
-***maplotlib*** - Used to Visualize our text data
+***matplotlib*** - Used to Visualize our text data
