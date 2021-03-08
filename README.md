@@ -1,7 +1,7 @@
 
 # Gutenberg Novel Analysis
 
-*In this project, we performed text analysis on two of our chosen books from Gutenberg*
+*In this project, we performed text analysis on two of our chosen books from Gutenberg using Natural Language Processing Techniques*
 
 ![Books Used](https://user-images.githubusercontent.com/65908705/107999517-8dc02e00-700d-11eb-961b-8e64e012d5db.png)
 
@@ -33,4 +33,4 @@
 ***re*** - Used to remove URLs and Decontract Contractions in English Language 
 ***wordcloud*** - Used to create WordClouds from Tokenized Data  
 ***inflect*** - Used to replace numbers with words  
-***maplotlib*** - Used to Visualize our text data
+***matplotlib*** - Used to Visualize our text data
